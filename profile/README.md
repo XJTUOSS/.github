@@ -2,11 +2,7 @@
 
 Welcome to the **XJTU Open Source Security Team** GitHub organization!
 
-We are a team of developers and security enthusiasts from **Xi'an Jiaotong University** (XJTU)🔍, focusing on advancing the field of open-source security. Our team is dedicated to the development of **Software Composition Analysis (SCA) tools**, aimed at helping developers and organizations identify and mitigate vulnerabilities within their software components. 🤖🔧
-
-## Mission
-
-Our primary mission is to contribute to the open-source community by building tools that help organizations secure their software projects. We integrate the power of **Large Language Models (LLMs)** with our tools to improve the accuracy, efficiency, and user experience of vulnerability detection and remediation.
+We are a team of developers and security researcher from **Xi'an Jiaotong University** (XJTU)🔍, focusing on advancing the field of open-source security. Our team is dedicated to the development of **Software Composition Analysis (SCA) tools**, aimed at helping developers and organizations identify and mitigate vulnerabilities within their software components. 🤖🔧
 
 ## Key Areas of Focus
 
