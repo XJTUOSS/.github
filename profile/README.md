@@ -18,20 +18,6 @@ We are a team of developers and security researcher from **Xi'an Jiaotong Univer
 ### 2. **LLM for Security Enhancements**
    - Leveraging the power of LLMs, we aim to incorporate automated analysis and recommendations into our security tools, making vulnerability management smarter and more efficient.
 
-## Get Involved
-
-We welcome contributions from developers, researchers, and security enthusiasts. Whether you are interested in contributing code, reporting issues, or providing feedback, we encourage collaboration to help make open-source software more secure for everyone.
-
-### How to Contribute
-
-1. Fork this repository.
-2. Clone it to your local machine.
-3. Create a new branch.
-4. Implement your changes or fix issues.
-5. Open a pull request with a detailed description of the changes you made.
-
-We’re excited to review your pull requests and collaborate with you! 👐
-
 ## Contact Us
 
 - 📧Email: [asiwuhe@hotmial.com](mailto:asiwuhe@hotmial.com)
