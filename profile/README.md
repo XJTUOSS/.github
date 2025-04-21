@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/XJTUOSS/.github/blob/main/profile/logo_raw.png?raw=true" alt="XJTUOSS Logo" width="200"/>
+</p>
+
 # XJTU Open Source Security Team 🚀🔐
 
 Welcome to the **XJTU Open Source Security Team** GitHub organization!
@@ -14,6 +18,8 @@ We are a team of developers and security researcher from **Xi'an Jiaotong Univer
 
 ### 1. **SCA Tool Development**
    - Our team develops open-source tools that scan and analyze software dependencies, helping identify and address security vulnerabilities in third-party libraries.
+   - cense compliance** and open source governance
+   - **DevSecOps** integration for proactive risk control  
 
 ### 2. **LLM for Security Enhancements**
    - Leveraging the power of LLMs, we aim to incorporate automated analysis and recommendations into our security tools, making vulnerability management smarter and more efficient.
