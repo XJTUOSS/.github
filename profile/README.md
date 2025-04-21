@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/XJTUOSS/.github/blob/main/profile/logo_cn.png?raw=true" alt="XJTUOSS Logo" width="300"/>
+  <img src="https://github.com/XJTUOSS/.github/blob/main/profile/logo_cn.png?raw=true" alt="XJTUOSS Logo" width="200"/>
 </p>
 
 # XJTU Open Source Security Team 🚀🔐
