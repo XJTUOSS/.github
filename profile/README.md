@@ -21,7 +21,7 @@ We are a team of developers and security researcher from **Xi'an Jiaotong Univer
    - cense compliance** and open source governance
    - **DevSecOps** integration for proactive risk control  
 
-### 2. **LLM for Security(LLM4Sec)**
+### 2. **LLM for Security (LLM4Sec) **
    - Leveraging the power of LLMs, we aim to incorporate automated analysis and recommendations into our security tools, making vulnerability management smarter and more efficient.
 
 ## Contact Us
