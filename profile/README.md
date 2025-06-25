@@ -26,6 +26,6 @@ We are a team of developers and security researcher from **Xi'an Jiaotong Univer
 
 ## Contact Us
 
-- 📧Email: [asiwuhe@hotmial.com](mailto:asiwuhe@hotmial.com)
+- 📧Email: [axiwuhe@stu.xjtu.edu.cn](mailto:axiwuhe@stu.xjtu.edu.cn)
 
 Thank you for checking out the XJTU Open Source Security Team! We look forward to collaborating with you on making open-source software more secure.
